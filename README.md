@@ -10,5 +10,5 @@ React with vite\
 Typescript\
 Tailwind\
 React-hook-form\
-Framer motion\
+Framer motion
 
